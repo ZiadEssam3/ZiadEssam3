@@ -1,20 +1,17 @@
-<h1 align="left">Hello Everyone 👋</h1>
-
+Hello Everyone 👋
 ______________________________________________________________________________________________________________________________________________________________
 
-
-<h3 align="left">I'm Ziad Essam an IoT Engineer</h3>
-
+I'm Ziad Essam an IoT System Engineer
 ______________________________________________________________________________________________________________________________________________________________
 
-
-<h2 align="left">About me</h2>
-
+About me
 ______________________________________________________________________________________________________________________________________________________________
 
-
-<h4 align="left">✨ Creating bugs since I first touched a microcontroller. Currently diving deep into IoT engineering. <br>💻 I'm develop Web applications, smart home systems, <br>🎯 Fun fact: IoT devices will soon outnumber humans.</h4>
-
+🚀 Dynamic and detail-oriented **IoT Engineer** with extensive expertise in developing and implementing innovative IoT solutions.  
+📡 Skilled in the architecture and development of IoT systems, including **wireless technologies** and **IoT platforms**.  
+💻 Proficient in **web application development** using a variety of modern technologies.  
+⚡ Demonstrates adaptability and the ability to quickly integrate with **cutting-edge advancements**.  
+🌆 Experienced in **Smart City** and **Smart Home** solutions development to drive business growth.  
 ______________________________________________________________________________________________________________________________________________________________
 <h4 align="left"> Embedded Systems , IOT Skills</h4>
 
@@ -26,9 +23,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________________
 
-
-<h2 align="left">Languages and Tools:</h2>
-
+Languages and Tools:
 ______________________________________________________________________________________________________________________________________________________________
 
 
@@ -88,9 +83,8 @@ ________________________________________________________________________________
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="figma logo"  />
 </div>
-
-<h2 align="left">Contact with me:</h2>
-
+______________________________________________________________________________________________________________________________________________________________
+Contact with me:
 ______________________________________________________________________________________________________________________________________________________________
  <div align="left">
     <a href="https://linkedin.com/in/ziad-essam-ze3" target="blank">
@@ -100,7 +94,3 @@ ________________________________________________________________________________
          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a
 </div>
-______________________________________________________________________________________________________________________________________________________________
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadEssam3&layout=compact)
-
-
