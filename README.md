@@ -78,15 +78,13 @@
 <h2 align="left">Contact with me:</h2>
 
 ###
-  <p align="left">
+ <div align="left">
     <a href="https://linkedin.com/in/ziad-essam-ze3" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
-  </p>
-  <div align="left">
-      <a href="mailto:ziad.essam.abdelaziz3@gmail.com" target="_blank">
+    <a href="mailto:ziad.essam.abdelaziz3@gmail.com" target="_blank">
          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-      </a
+    </a
 </div>
 
 
