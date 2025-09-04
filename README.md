@@ -1,22 +1,36 @@
 <h1 align="left">Hello Everyone 👋</h1>
 
-###
+______________________________________________________________________________________________________________________________________________________________
+
 
 <h3 align="left">I'm Ziad Essam an IoT Engineer</h3>
 
-###
+______________________________________________________________________________________________________________________________________________________________
+
 
 <h2 align="left">About me</h2>
 
-###
+______________________________________________________________________________________________________________________________________________________________
+
 
 <h4 align="left">✨ Creating bugs since I first touched a microcontroller. Currently diving deep into IoT engineering. <br>💻 I'm develop Web applications, smart home systems, <br>🎯 Fun fact: IoT devices will soon outnumber humans.</h4>
 
-###
+______________________________________________________________________________________________________________________________________________________________
+<h4 align="left"> Embedded Systems , IOT Skills</h4>
+
+![Embedded C](https://img.shields.io/badge/Embedded%20Systems-007ACC?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Verilog](https://img.shields.io/badge/VHDL-8B0000?style=flat-square)
+![MicroPython](https://img.shields.io/badge/MicroPython-3776AB?style=flat-square&logo=python&logoColor=white)
+
+______________________________________________________________________________________________________________________________________________________________
+
 
 <h2 align="left">Languages and Tools:</h2>
 
-###
+______________________________________________________________________________________________________________________________________________________________
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40"  width="40" alt="c logo"  />
@@ -77,7 +91,7 @@
 
 <h2 align="left">Contact with me:</h2>
 
-###
+______________________________________________________________________________________________________________________________________________________________
  <div align="left">
     <a href="https://linkedin.com/in/ziad-essam-ze3" target="blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -86,7 +100,7 @@
          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a
 </div>
-###
+______________________________________________________________________________________________________________________________________________________________
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadEssam3&layout=compact)
 
 
