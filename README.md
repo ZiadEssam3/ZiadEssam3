@@ -1,10 +1,13 @@
 <h1> Hello Everyone 👋 </h1>
 ______________________________________________________________________________________________________________________________________________________________
 
+
 <h4 align="left"> I'm Ziad Essam an IoT System Engineer </h4>
+
 ______________________________________________________________________________________________________________________________________________________________
 
 <h4 align="left">About me </h4>
+
 ______________________________________________________________________________________________________________________________________________________________
 
 🚀 Dynamic and detail-oriented **IoT Engineer** with extensive expertise in developing and implementing innovative IoT solutions.  
@@ -12,8 +15,11 @@ ________________________________________________________________________________
 💻 Proficient in **web application development** using a variety of modern technologies.  
 ⚡ Demonstrates adaptability and the ability to quickly integrate with **cutting-edge advancements**.  
 🌆 Experienced in **Smart City** and **Smart Home** solutions development to drive business growth.  
+
 ______________________________________________________________________________________________________________________________________________________________
+
 <h4 align="left"> Languages and Tools: </h4>
+
 ______________________________________________________________________________________________________________________________________________________________
 
 <div align="left">
@@ -76,13 +82,17 @@ ________________________________________________________________________________
 
 <h4 align="left"> Embedded Systems , IOT Skills</h4>
 
+______________________________________________________________________________________________________________________________________________________________
+
 ![Embedded C](https://img.shields.io/badge/Embedded%20Systems-007ACC?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Verilog](https://img.shields.io/badge/VHDL-8B0000?style=flat-square)
 ![MicroPython](https://img.shields.io/badge/MicroPython-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ______________________________________________________________________________________________________________________________________________________________
-Contact with me:
+
+<h4 align="left"> Contact with me: </h4>
 ______________________________________________________________________________________________________________________________________________________________
  <div align="left">
     <a href="https://linkedin.com/in/ziad-essam-ze3" target="blank">
