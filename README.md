@@ -86,7 +86,6 @@ ________________________________________________________________________________
 
 <h4 align="left"> Embedded Systems , IOT Skills</h4>
 
-______________________________________________________________________________________________________________________________________________________________
 
 ![Embedded C](https://img.shields.io/badge/Embedded%20Systems-007ACC?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
