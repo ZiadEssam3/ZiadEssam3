@@ -86,5 +86,7 @@
          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a
 </div>
+###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadEssam3&layout=compact)
 
 
