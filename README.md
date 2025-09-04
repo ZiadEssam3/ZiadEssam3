@@ -90,7 +90,7 @@ ________________________________________________________________________________
 ![Embedded C](https://img.shields.io/badge/Embedded%20Systems-007ACC?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Verilog](https://img.shields.io/badge/VHDL-8B0000?style=flat-square)
+![Verilog](https://img.shields.io/badge/Verilog-8B0000?style=flat-square&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ______________________________________________________________________________________________________________________________________________________________
