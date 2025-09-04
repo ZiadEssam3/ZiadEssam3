@@ -1,10 +1,10 @@
-Hello Everyone 👋
+<h1> Hello Everyone 👋 </h1>
 ______________________________________________________________________________________________________________________________________________________________
 
-I'm Ziad Essam an IoT System Engineer
+<h4 align="left"> I'm Ziad Essam an IoT System Engineer </h4>
 ______________________________________________________________________________________________________________________________________________________________
 
-About me
+<h4 align="left">About me </h4>
 ______________________________________________________________________________________________________________________________________________________________
 
 🚀 Dynamic and detail-oriented **IoT Engineer** with extensive expertise in developing and implementing innovative IoT solutions.  
@@ -13,19 +13,8 @@ ________________________________________________________________________________
 ⚡ Demonstrates adaptability and the ability to quickly integrate with **cutting-edge advancements**.  
 🌆 Experienced in **Smart City** and **Smart Home** solutions development to drive business growth.  
 ______________________________________________________________________________________________________________________________________________________________
-<h4 align="left"> Embedded Systems , IOT Skills</h4>
-
-![Embedded C](https://img.shields.io/badge/Embedded%20Systems-007ACC?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Verilog](https://img.shields.io/badge/VHDL-8B0000?style=flat-square)
-![MicroPython](https://img.shields.io/badge/MicroPython-3776AB?style=flat-square&logo=python&logoColor=white)
-
+<h4 align="left"> Languages and Tools: </h4>
 ______________________________________________________________________________________________________________________________________________________________
-
-Languages and Tools:
-______________________________________________________________________________________________________________________________________________________________
-
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40"  width="40" alt="c logo"  />
@@ -83,6 +72,15 @@ ________________________________________________________________________________
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="figma logo"  />
 </div>
+______________________________________________________________________________________________________________________________________________________________
+
+<h4 align="left"> Embedded Systems , IOT Skills</h4>
+
+![Embedded C](https://img.shields.io/badge/Embedded%20Systems-007ACC?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Verilog](https://img.shields.io/badge/VHDL-8B0000?style=flat-square)
+![MicroPython](https://img.shields.io/badge/MicroPython-3776AB?style=flat-square&logo=python&logoColor=white)
 ______________________________________________________________________________________________________________________________________________________________
 Contact with me:
 ______________________________________________________________________________________________________________________________________________________________
